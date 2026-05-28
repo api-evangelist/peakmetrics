@@ -1,0 +1,32 @@
+aid: peakmetrics
+name: PeakMetrics
+description: "News articles and public datasets"
+url: https://rapidapi.com/peakmetrics-peakmetrics-default/api/peakmetrics-news
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Open Data"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Open Data
+  - Public APIs
+apis:
+  - name: PeakMetrics
+    description: "News articles and public datasets"
+    humanURL: https://rapidapi.com/peakmetrics-peakmetrics-default/api/peakmetrics-news
+    baseURL: https://rapidapi.com/peakmetrics-peakmetrics-default/api/peakmetrics-news
+    tags:
+      - Open Data
+    properties:
+      - type: Documentation
+        url: https://rapidapi.com/peakmetrics-peakmetrics-default/api/peakmetrics-news
+common:
+  - type: Website
+    url: https://rapidapi.com/peakmetrics-peakmetrics-default/api/peakmetrics-news
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
