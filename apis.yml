@@ -49,7 +49,7 @@ common:
   - type: DomainSecurity
     url: security/peakmetrics-domain-security.yml
   - type: Website
-    url: https://rapidapi.com/peakmetrics-peakmetrics-default/api/peakmetrics-news
+    url: https://www.peakmetrics.com
   - type: PublicAPIsListing
     url: https://github.com/public-apis/public-apis
   - url: https://peakmetrics.com/feed/
